@@ -13,4 +13,20 @@
         android:text="atrasregistro"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button Prueba"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="258dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Texto prueba"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="449dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
