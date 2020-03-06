@@ -10,7 +10,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
     //creamos las variables de tipo boton
     Button btnring ,btnreg;
-
+    //Cambios de pruebas por fin sirven o que
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
